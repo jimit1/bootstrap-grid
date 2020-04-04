@@ -16,3 +16,5 @@ h3 {
   background-color: aliceblue;
   border: 1px solid rgb(27, 8, 80);
 }
+
+/* !important makes overwriting of existing styles and applying these styles. But this also makes the file super heavy so ideally not to use */
